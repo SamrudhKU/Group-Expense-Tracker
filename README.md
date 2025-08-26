@@ -25,12 +25,3 @@ This application comprises of 5 modules:</br>
 <b>'com.diegodobelo.expandingview:expanding-view:0.9.4'</b></br>
 <b>'com.sdsmdg.tastytoast:tastytoast:0.1.0'</b></br>
 <b>'com.airbnb.android:lottie:2.2.0'</b></br>
-
-Following are some of the screenshots of the app...</br>
-</br>
-<img src="./main1.png" width="285px" height="auto">
-<img src="./main2.png" width="285px" height="auto">
-<img src="./main3.png" width="285px" height="auto">
-<img src="./main4.png" width="285px" height="auto">
-<img src="./main5.png" width="285px" height="auto">
-<img src="./main6.png" width="285px" height="auto">
